@@ -51,7 +51,7 @@ A project designed to help users manage and track their daily expenses.
 **Technologies:** Python, CSV, JSON
 
 🔗 **GitHub Repository:**  
-https://github.com/rishi123200/Expense-Tracker-CSV-JSON-
+https://github.com/rishi123200/Rishynex-expense-tracker
 
 ---
 
